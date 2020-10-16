@@ -1,0 +1,34 @@
+Room 1
+Jasmine
+Meg
+James
+Jess
+Jenn
+
+Room 2
+Haven
+Zabriawn
+Aiden
+Trent
+Jinah
+
+Room 3
+Lena
+Sean
+Jeremy
+Frank
+Jack
+
+Room 4
+Marina
+Karisa
+Mindy
+Amy
+Matt
+
+Room 5
+Bond
+Geoff
+Marty
+Kim
+
